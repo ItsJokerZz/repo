@@ -5,9 +5,9 @@ Maintainer: ItsJokerZz <itsjokerzz@gmail.com>
 Depends: firmware (>11.2), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.itsjokerzz.betterappmanager_1.0.0-1+debug_iphoneos-arm.deb
+MD5sum: A4B75880EE7C8CB694B0E95237BDCCEF
 Size: 201
 Description: Firmware should be greater than 11.2
 Name: Better App Manager
 Author: ItsJokerZz <itsjokerzz@gmail.com>
 Depiction: https://itsjokerzz.github.io/repo/depictions/?p=com.itsjokerzz.betterappmanager
-Icon: file://CydiaIcon.png
