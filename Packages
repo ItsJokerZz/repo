@@ -8,7 +8,7 @@ Filename: ./debs/com.itsjokerzz.betterappmanager_1.0.0-1+debug_iphoneos-arm.deb
 MD5sum: a4b75880ee7c8cb694b0e95237bdccef
 SHA1: 6bd07c21aef25835ea7c1500004551b797ce451b
 SHA256: ee7fde9f3f982b4165eaaab828cfadb739fbeb11767875b41934ceea782c6eb9
-Size: 201
+Size: 201000
 Description: Firmware should be greater than 11.2
 Name: Better App Manager
 Author: ItsJokerZz <itsjokerzz@gmail.com>
