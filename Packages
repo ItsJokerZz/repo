@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: ItsJokerZz <itsjokerzz@gmail.com>
 Depends: firmware (>11.2), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.itsjokerzz.betterappmanager
+Filename: ./debs/com.itsjokerzz.betterappmanager_1.0.0-1+debug_iphoneos-arm.deb
 Size: 201
 Description: Firmware should be greater than 11.2
 Name: Better App Manager
