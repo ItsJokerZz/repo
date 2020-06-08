@@ -6,6 +6,8 @@ Depends: firmware (>11.2), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.itsjokerzz.betterappmanager_1.0.0-1+debug_iphoneos-arm.deb
 MD5sum: A4B75880EE7C8CB694B0E95237BDCCEF
+SHA1: 6BD07C21AEF25835EA7C1500004551B797CE451B
+SHA256: EE7FDE9F3F982B4165EAAAB828CFADB739FBEB11767875B41934CEEA782C6EB9
 Size: 201
 Description: Firmware should be greater than 11.2
 Name: Better App Manager
